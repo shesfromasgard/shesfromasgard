@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ad6f&size=35&center=true&vCenter=true&width=1000&lines=🚀+Olá,+viajante+do+código!+Gustavo+no+Comando!;Sejam+todos+bem-vindos.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shesfromasgard&show_icons=true&count_private=true&hide_border=true&title_color=00ad6f&icon_color=00ad6f&text_color=FFFFFF&bg_color=0d1117" alt="Laura Cristina github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesfromasgard&layout=compact&hide_border=true&title_color=00ad6f&text_color=00ad6f&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shesfromasgard&show_icons=true&count_private=true&hide_border=true&title_color=F598AF&icon_color=00ad6f&text_color=FFFFFF&bg_color=0d1117" alt="Laura Cristina github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesfromasgard&layout=compact&hide_border=true&title_color=F598AF&text_color=00ad6f&bg_color=0d1117" />
 </div>
 
 <h2>📞 Entre em Contato</h2>
@@ -32,15 +32,15 @@
 
 <h2>📚 Estudando no momento:</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-007BFF?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)
-![NODEJS](https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MYSQL-00758F?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-FF4500?style=for-the-badge&logo=html5&labelColor=F598AF&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-007BFF?style=for-the-badge&logo=css3&labelColor=F598AF&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=F598AF&logoColor=white)
+![NODEJS](https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=node.js&labelColor=F598AF&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&labelColor=F598AF&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MYSQL-00758F?style=for-the-badge&logo=mysql&labelColor=F598AF&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=F598AF&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=F598AF&logoColor=white)
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ad6f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F598AF&height=120&section=footer"/>
