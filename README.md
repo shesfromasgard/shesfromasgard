@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shesfromasgard&show_icons=true&count_private=true&hide_border=true&title_color=F598AF&icon_color=00ad6f&text_color=FFFFFF&bg_color=0d1117" alt="Laura Cristina github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesfromasgard&layout=compact&hide_border=true&title_color=F598AF&text_color=00ad6f&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shesfromasgard&layout=compact&hide_border=true&title_color=F598AF&text_color=F598AF&bg_color=0d1117" />
 </div>
 
 <h2>📞 Entre em Contato</h2>
