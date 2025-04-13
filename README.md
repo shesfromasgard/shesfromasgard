@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura Cristina</h1>
 
-⚡ Fun fact **I like cats and pink**
+**I like cats and pink**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
