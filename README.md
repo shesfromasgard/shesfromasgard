@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Laura Cristina</h1>
-<p align="left"> <a href="https://twitter.com/shesfromasgard" target="blank"><img src="https://img.shields.io/twitter/follow/shesfromasgard?logo=twitter&style=for-the-badge" alt="shesfromasgard" /></a> </p>
 
 - ⚡ Fun fact **I like cats and pink**
 
